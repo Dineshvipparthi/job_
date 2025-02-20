@@ -196,11 +196,11 @@ except LookupError:
         st.error(f"Failed to download 'omw-1.4': {e}")
 
 # File paths
-apps_file_path = "Dataset/apps.tsv"
-user_history_file_path = "Dataset/user_history.tsv"
-jobs_file_path = "Dataset/jobs.csv"
-users_file_path = "Dataset/users.tsv"
-test_users_file_path = "Dataset/test_users.tsv"
+apps_file_path = "apps.tsv"
+user_history_file_path = "user_history.tsv"
+jobs_file_path = "jobs.csv"
+users_file_path = "users.tsv"
+test_users_file_path = "test_users.tsv"
 
 
 def remove_html_tags(text):
