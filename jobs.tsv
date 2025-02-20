@@ -1,0 +1,6 @@
+job_id,job_title,company,location,salary,requirements,Description
+1001,Software Engineer,Company A,NYC,120000,"Python, SQL",Develop and maintain software applications using Python and SQL. Collaborate with teams to improve systems and features.
+1002,Data Scientist,Company B,SF,130000,"Python, R",Analyze data and build predictive models using Python and R. Present insights to management to inform decisions.
+1003,Web Developer,Company C,LA,110000,"HTML, CSS, JavaScript","Build and design responsive websites with HTML, CSS, and JavaScript. Work with clients to ensure quality user experience."
+1004,Product Manager,Company D,Chicago,140000,Project Management,"Lead product teams to define features, roadmap, and execute strategies for product growth and improvement."
+1005,UI/UX Designer,Company E,Austin,95000,"UX Research, Design",Design user interfaces and conduct research to improve user experience. Collaborate with product and engineering teams.
